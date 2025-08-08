@@ -1,0 +1,56 @@
+1+2
+var abc=1
+var ali=2
+var test=3
+3==3
+2==2
+saba==ansar
+3>3
+4<4 == 2<=3
+je (2+2) aykarie 3 nite 4
+chaldawanj i=1 nu 10 aykarie var bassam = bassam * 1
+jando (2==2) aykarie var bassam = bassam + 1
+kam tFunc (das) -> 5
+
+(1+2) + (3+4) * 5
+-5 + 3
+2 ^ 3
+
+var a = 10
+10 / a
+var a = 5 * 5
+
+5 == 6
+5 == 5 and 6 == 6
+1+1==2 or 2+2==5
+not 0
+not 1
+5<=6
+
+
+AGAR 5==5 YEKARDO 123
+je 5 == 5 and 6 == 6 aykarie 123 nite 321
+var price = AGAR age>=18 aykarie 40 nite 20
+
+
+
+var result = 1
+chaldawanj i=0 SE 10 YEKARDO var result = result * i
+
+chaldawanj i=10 nu 0 kadam -1 aykarie var result = result * i
+jando i<1000 aykarie var i=i+1
+
+
+kam add (a, b) -> a+b
+add(2,3)
+kam (a) -> a+6
+var some_func = kam (a) -> a+6
+some_func(4)
+
+STRINGS:
+
+"hello"
+"he" + "llo"
+"he" * 3
+
+
